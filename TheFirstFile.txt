@@ -1,2 +1,4 @@
 This is the first file.
 Created by Hue Le on 11 Jun.
+----------------------
+Adding more content. This is new content on the second time.
